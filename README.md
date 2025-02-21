@@ -1,4 +1,4 @@
 # JhaSuruchi
 This is my Git Repository
 <br>
-Author - Jha Ruchi
+Author - Jha Jagriti
